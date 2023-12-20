@@ -28,8 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-software
-
+```
 BeyondTech
 <html>
 <title>hpksofco</title>
@@ -39,7 +38,6 @@ BeyondTech
         background-size: cover;
         
     }
-
     h1{
         color: black;
     }
@@ -137,16 +135,7 @@ BeyondTech
     padding: 10px 20px; /*  button size */
     background-color: #3498db;
     color: #ffffff;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-.join:hover {
-    color: blue;
-    background-color: blue;
-}
-
-/main html/
+    
 </style>
 <body >
     <form class="styled ">
@@ -158,53 +147,13 @@ BeyondTech
                 <input type="button" value="OUR PRODUCTS">
             </a>
 
-            <a href="about.html">
-                <input type="button" value="ABOUT US">
-            </a>
-            <a href="sign.html">
-                <input type="button" value="SIGN IN">
-            </a>
-            <a href="contact.html">
-                <input type="button" value="CONTACT">
-            </a>  
-            <input type="text">
-            <input type="submit"value="SEARCH">  
-        </div>
-    </form>
-
-    <h1>WELCOME TO BEYOND TECH</h1>
-    <h2>Thinking Beyond Technology</h2>
-    <h2>PRODUCTS</h2>
-    <a href="sign">
-        <input type="button" value="JOIN US" class="join">
-    </a>  
-    
-    <h3>"It's not that we use technology,we live technology"</h3>
-
-         <center>
-        <div class="login">
-            <div class="login-box">
-            <p style="color: green;">DONT HAVE AN ACCOUNT</p>
-            <a href="sign">
-                <input type="button" value="SIGN IN"><br><br>
-            </a>  
-            <p style="color: green;">LOGIN</p>
-            <input type="text" value="Username or email" ><br><br>
-            <input type="text" value="Password"><br><br>
-            <a href="products">
-                <input type="submit" value="SUBMIT"><br><br>
-            </a>  
-        </div>
-        </div>
-    </center>
-
 </body>
 <footer style="background-color:black;margin-top: 200; border: none;">
     <P style="color:#ffffff; ;"align="center">Designed and Devoloped by SANDHIYA .R 2023 </P>
 </footer>
 </html>
 
-Products
+Product
 
 <html>
     <title>our products</title>
@@ -412,7 +361,7 @@ About
 </footer>
 </html>
 
-sign
+Sign
 
 <!DOCTYPE html>
 <html>
@@ -731,6 +680,7 @@ border:2px solid white;
     <P style="color:#ffffff ;"align="center">Designed and Devoloped by SANDHIYA R 2023 </P>
 </footer>
 </html>
+```
 
 ## OUTPUT:
 ![Alt text](<Screenshot (72).png>)
